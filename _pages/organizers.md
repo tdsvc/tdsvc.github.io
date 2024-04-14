@@ -8,13 +8,12 @@ nav: true
 nav_order: 1
 ---
 
-title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 
 <div class="organizer">
   <img class="photo" alt="Hossein Zeinali" src="{{ site.baseurl }}/assets/img/Hossein_Zeinali.jpg">
   <div class="info">
     <h4>Hossein Zeinali
-	  <a href="mailto:hsn.zeinali@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+	  <a href="mailto:hsn.zeinali@gmail.com" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://scholar.google.com/citations?hl=en&user=KaGpFx8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 	</h4>
     <p>Amirkabir University of Technology</p>
@@ -28,7 +27,7 @@ title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   <img class="photo" alt="Kong Aik Lee" src="{{ site.baseurl }}/assets/img/Kong_Aik_Lee.jpg">
   <div class="info">
     <h4>Kong Aik Lee
-	  <a href="mailto:kong-aik.lee@polyu.edu.hk" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+	  <a href="mailto:kong-aik.lee@polyu.edu.hk" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://scholar.google.com/citations?user=SZegiA4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 	</h4>
     <p>The Hong Kong Polytechnic University</p>
@@ -42,7 +41,7 @@ title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   <img class="photo" alt="Jahangir Alam" src="{{ site.baseurl }}/assets/img/Jahangir_Alam.jpg">
   <div class="info">
     <h4>Jahangir Alam
-	  <a href="mailto:jahangir.alam@crim.ca" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+	  <a href="mailto:jahangir.alam@crim.ca" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://scholar.google.com/citations?hl=en&user=m3SuGqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 	</h4>
     <p>Computer Research Institute of Montreal</p>
@@ -55,10 +54,10 @@ title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 <br>
 
 <div class="organizer">
-  <img class="photo" alt="Lukáš Burget" src="{{ site.baseurl }}/assets/img/people/Lukas_Burget.jpg">
+  <img class="photo" alt="Lukáš Burget" src="{{ site.baseurl }}/assets/img/Lukas_Burget.jpg">
   <div class="info">
     <h4>Lukáš Burget
-	  <a href="mailto:burget@fit.vutbr.cz" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+	  <a href="mailto:burget@fit.vutbr.cz" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
       <a href="https://scholar.google.com/citations?user=pRBbU7wAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 	</h4>
     <p>Brno University of Technology</p>
@@ -67,3 +66,4 @@ title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
     He is an Associate Professor with the Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic, and the Research Director of the BUT Speech@FIT group. He was a Visiting Researcher with OGI Portland, USA, and with SRI International, Menlo Park, CA, USA. His scientific interests are in the field of speech data mining, concentrating on acoustic modeling for speech, speaker, and language recognition, including their software implementations. Dr. Burget was on numerous EU- and US-funded projects and was the PI of the US-Air Force EOARD project, and BUT PI in IARPA BEST.
   </p>
 </div>
+

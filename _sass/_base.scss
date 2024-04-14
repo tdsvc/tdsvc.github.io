@@ -1127,3 +1127,42 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+
+// Organizer
+.organizer {
+  width: 100%;
+  .photo {
+    margin-right: 1rem;
+    width: 100%;
+  }
+  .p {
+    font-style: monospace;
+    font-size:.75em;
+    margin-top:10px;
+    margin-left:230px;
+  }
+}
+
+@media (min-width: 576px) {
+  .organizer {
+    margin-bottom: 35px;
+    .photo {
+      width: 25%;
+      float: left;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+    .info {
+      p {
+  font-size: 1em;
+      }
+    }
+    .bio {
+      font-size:.75em;
+      margin-top:10px;
+      margin-left:230px;
+    }
+  }
+}
+
