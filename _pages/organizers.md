@@ -8,82 +8,62 @@ nav: true
 nav_order: 1
 ---
 
+title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+
 <div class="organizer">
-  <img class="photo" alt="Alessandro Bombini" src="{{ site.baseurl }}/assets/img/people/bombini.jpeg">
+  <img class="photo" alt="Hossein Zeinali" src="{{ site.baseurl }}/assets/img/Hossein_Zeinali.jpg">
   <div class="info">
-    <h4>Alessandro Bombini  
-      <a href="mailto:bombini@fi.infn.it" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
-      <a href="https://orcid.org/0000-0001-7225-3355" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/A.-Bombini/84260082" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-      <a href="https://dl.acm.org/profile/99660371894" title="acm"><i class="ai ai-acm ai"></i></a>
-    </h4>
-    <p> INFN-Firenze </p>
+    <h4>Hossein Zeinali
+	  <a href="mailto:hsn.zeinali@gmail.com" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://scholar.google.com/citations?hl=en&user=KaGpFx8AAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+	</h4>
+    <p>Amirkabir University of Technology</p>
   </div>
   <p class="bio">
-    Ph.D. in Physics, he works as a Researcher at the Istituto Nazionale di Fisica Nucleare (INFN) in the network devoted to the application of nuclear techniques to Cultural Heritage, where he is responsible for the research and development of digital infrastructure and web-services. He is also responsible for the digital development of the "Artificial Intelligence for digital REStoration of Cultura Heritage" (AIRES-CH) project, offering a web service for AI-based digital restoration of cultural heritage employing nuclear physics-based imaging raw data. He is also involved in the development of big data services for real time monitoring of environmental risks on cultural heritage within the european project "Competence Centre for Conservation of Cultural Heritage" (4CH).
+    He is an assistant professor at Amirkabir University of Technology (AUT), Tehran, Iran. He received his B.E. in Computer Engineering from Shiraz University, Iran in 2010, and his master’s (2012) and Ph.D. (2017) degrees in Artificial Intelligence area of Computer Engineering from Sharif University of Technology (SUT). He was a postdoc researcher at the Brno University of Technology (BUT), Czech Republic for 18 months in 2018 and 2019. His research interests include speaker recognition, speech recognition, machine learning, and deep learning.
   </p>
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Matteo Barbetti" src="{{ site.baseurl }}/assets/img/people/barbetti.jpeg">
+  <img class="photo" alt="Kong Aik Lee" src="{{ site.baseurl }}/assets/img/Kong_Aik_Lee.jpg">
   <div class="info">
-    <h4>Matteo Barbetti 
-      <a href="mailto:matteo.barbetti@unifi.it" title="email"><i class="fas fa-envelope"></i></a> 
-      <a href="https://orcid.org/0000-0002-6704-6914" title="orcid"><i class="fab fa-orcid"></i></a> 
-      <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-      <a href="https://inspirehep.net/authors/1908127?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-    </h4>
-    <p>University of Firenze, INFN-Firenze</p>
+    <h4>Kong Aik Lee
+	  <a href="mailto:kong-aik.lee@polyu.edu.hk" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://scholar.google.com/citations?user=SZegiA4AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+	</h4>
+    <p>The Hong Kong Polytechnic University</p>
   </div>
   <p class="bio">
-    Ph.D. student in Smart Computing at the University of Firenze, since 2019 he has been a member of the Istituto Nazionale di Fisica Nucleare (INFN) and of the LHCb Collaboration at CERN. His research activity is mainly dedicated to developing AI-based parameterizations for the Fast Simulation of the LHCb experiment, typically relying on deep generative models. From 2019 to 2021, he was a member of the Executive Committee of the Italian Association of Physics Students (AISF) and partecipated in organizing several national and international events. More recently, he has taken part of the organizing committee of the Third ML-INFN Hackathon, which took place in Bari on November 2022.
+    He is an Associate Professor at the Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Hong Kong. Before joining PolyU, he was a Principal Scientist and a Group Leader at the Agency for Science, Technology and Research (A*STAR), Singapore, during which he held a concurrent appointment as an Associate Professor at the Singapore Institute of Technology. He received his Ph.D. from Nanyang Technological University, Singapore, in 2006. Currently, he serves as an Editorial Board Member for Elsevier Computer Speech and Language (2016 - present) and was an Associate Editor for IEEE/ACM Transactions on Audio, Speech, and Language Processing (2017 – 2021).
   </p>
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Lisa Castelli" src="{{ site.baseurl }}/assets/img/people/castelli.jpg">
+  <img class="photo" alt="Jahangir Alam" src="{{ site.baseurl }}/assets/img/Jahangir_Alam.jpg">
   <div class="info">
-    <h4>
-      Lisa Castelli
-      <a href="mailto:lisa.castelli@fi.infn.it" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-6237-0432" title="orcid"><i class="fab fa-orcid"></i></a>
-      <a href="https://www.semanticscholar.org/author/L.-Castelli/119595571" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-    </h4>
-    <p>INFN-Firenze</p>
+    <h4>Jahangir Alam
+	  <a href="mailto:jahangir.alam@crim.ca" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://scholar.google.com/citations?hl=en&user=m3SuGqwAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+	</h4>
+    <p>Computer Research Institute of Montreal</p>
   </div>
   <p class="bio">
-    Graduated in Physics, has obtained her Ph.D. in Material Science and Engineering, she is a Technologist at INFN. She is an expert in the development and applications of portable X-ray-based instrumentation for the elemental characterisation of materials in cultural heritage. She is also involved in the management and organisation of the activities of the INFN-CHNet network, and she actively works on the integration of the CHNet raw data, mainly in the framework of the EU Projects ARIADNEplus, EOSCPillar and 4CH.
+    He is a researcher at the Computer Research Institute of Montreal (CRIM), Montreal, Canada. He received his Bachelor of Science in Electrical and Electronic Engineering from Khulna University of Engineering and Technology (KUET), Khulna, Bangladesh in 2002. He received his master’s (2009) and Ph.D. (2014) degrees in Telecommunications from INRS-EMT, University of Quebec, Montreal, Canada. He is also an adjunct professor at INRS-EMT, Montreal, Canada. Since June 2021, he has been also appointed as an affiliate associate professor in the Department of Computer Science and Software Engineering, Concordia University, Montreal, Canada. His research interests are in the broad areas of signal/speech processing, deep learning, unimodal & multimodal biometrics, robust representation learning, self-supervised speaker verification, anti-spoofing, clustering & diarization, domain adaptation & generalization.
   </p>
 </div>
 
 <br>
 
 <div class="organizer">
-  <img class="photo" alt="Stefano Dal Pra" src="{{ site.baseurl }}/assets/img/people/dalpra.jpg">
+  <img class="photo" alt="Lukáš Burget" src="{{ site.baseurl }}/assets/img/people/Lukas_Burget.jpg">
   <div class="info">
-    <h4>
-      Stefano Dal Pra
-      <a href="mailto:dalpra@infn.it" title="email"><i class="fas fa-envelope"></i></a>
-      <a href="https://orcid.org/0000-0002-1057-2307" title="orcid"><i class="fab fa-orcid"></i></a>
-      <a href="https://www.semanticscholar.org/author/S.-Dal-Pra/13534449" title="semanticscholar"><i class="ai ai-semantic-scholar"></i></a>
-      <a href="https://inspirehep.net/authors/1423914?ui-citation-summary=true" title="inspirehep"><i class="ai ai-inspire ai"></i></a>
-    </h4>
-    <p>INFN-CNAF</p>
+    <h4>Lukáš Burget
+	  <a href="mailto:burget@fit.vutbr.cz" title="email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
+      <a href="https://scholar.google.com/citations?user=pRBbU7wAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+	</h4>
+    <p>Brno University of Technology</p>
   </div>
   <p class="bio">
-    Grid and batch manager at the INFN-CNAF Tier-1 computing centre for High Energy Phisycs, WP leader for the infrastructural part of the ML-INFN project with focus at effective provisioning through cloud technologies of computing resources for ML/DL training and development. He is also working on solutions for seamless integration of heterogenous computing resources, such as GPUs or non x86_64 with Grid computing centres. Also WP leader of the GEMS project of the VIRGO collaboration, working on solutions for the computing model with accelerated hardware.
+    He is an Associate Professor with the Faculty of Information Technology, Brno University of Technology, Brno, Czech Republic, and the Research Director of the BUT Speech@FIT group. He was a Visiting Researcher with OGI Portland, USA, and with SRI International, Menlo Park, CA, USA. His scientific interests are in the field of speech data mining, concentrating on acoustic modeling for speech, speaker, and language recognition, including their software implementations. Dr. Burget was on numerous EU- and US-funded projects and was the PI of the US-Air Force EOARD project, and BUT PI in IARPA BEST.
   </p>
 </div>
-
-<br>
-
-### Technical program committee
-
-- Matteo Barbetti (University of Firenze, INFN-Firenze)
-- Alessandro Bombini (INFN-Firenze)
-- Benedetta Camaiani (University of Firenze, INFN-Firenze)
-- Lisa Castelli (INFN-Firenze)
-- Stefano Dal Pra (INFN-CNAF)
-- Fernando Garcia Avello-Bofias (INFN-Firenze)
-- Luca Giommi (INFN-CNAF)
-- Francesca Lizzi (INFN-Pisa)
