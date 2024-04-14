@@ -6,7 +6,7 @@ subtitle: Short-duration speaker verification in two different configurations
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tdsvc_poster.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
