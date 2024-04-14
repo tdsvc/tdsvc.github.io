@@ -18,7 +18,7 @@ We kindly ask participants to use their organization's name as the team name. We
 
 There are two separate tasks in the challenge, each with its own competition webpage. Participants can register for just one competition or both. If you are participating in both tasks, please use the same user account (team name). The competition pages on CodaLab are:
 
-- [Task 1, Text-Dependent Speaker Verification](https://competitions.codalab.org/competitions/28190)
-- [Task 2, Text-Independent Speaker Verification](https://competitions.codalab.org/competitions/28269)
+- [Task 1, Text-Dependent Speaker Verification](https://codalab.org/)
+- [Task 2, Text-Independent Speaker Verification](https://codalab.org/)
 
-Since the evaluation dataset is a subset of the [DeepMine dataset](https://data.deepmine.ir/en/), teams need to fill out and sign the dataset's [License Agreement](/assets/docs/Challenge_License_Agreement_2024.docx) in addition to creating a CodaLab account. After signing the agreement, upload the signed version in [the Challenge Registration form](https://forms.gle/q2kXMuvomkpG73Gj9). We will contact you upon receiving your registration information, and the dataset download links will be sent to the corresponding user of the team.
+Since the evaluation dataset is a subset of the [DeepMine dataset](https://data.deepmine.ir/en/), teams need to fill out and sign the dataset's [License Agreement](https://tdsvc.github.io/assets/docs/Challenge_License_Agreement_2024.docx) in addition to creating a CodaLab account. After signing the agreement, upload the signed version in [the Challenge Registration form](https://forms.gle/q2kXMuvomkpG73Gj9). We will contact you upon receiving your registration information, and the dataset download links will be sent to the corresponding user of the team.

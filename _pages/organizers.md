@@ -10,7 +10,7 @@ nav_order: 1
 
 
 <div class="organizer">
-  <img class="photo" alt="Hossein Zeinali" src="{{ site.baseurl }}/assets/img/Hossein_Zeinali.jpg">
+  <img class="photo" alt="Hossein Zeinali" src="https://tdsvc.github.io/assets/img/Hossein_Zeinali.jpg">
   <div class="info">
     <h4>Hossein Zeinali
 	  <a href="mailto:hsn.zeinali@gmail.com" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
@@ -24,7 +24,7 @@ nav_order: 1
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Kong Aik Lee" src="{{ site.baseurl }}/assets/img/Kong_Aik_Lee.jpg">
+  <img class="photo" alt="Kong Aik Lee" src="https://tdsvc.github.io/assets/img/Kong_Aik_Lee.jpg">
   <div class="info">
     <h4>Kong Aik Lee
 	  <a href="mailto:kong-aik.lee@polyu.edu.hk" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
@@ -38,7 +38,7 @@ nav_order: 1
 </div>
 
 <div class="organizer">
-  <img class="photo" alt="Jahangir Alam" src="{{ site.baseurl }}/assets/img/Jahangir_Alam.jpg">
+  <img class="photo" alt="Jahangir Alam" src="https://tdsvc.github.io/assets/img/Jahangir_Alam.jpg">
   <div class="info">
     <h4>Jahangir Alam
 	  <a href="mailto:jahangir.alam@crim.ca" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
@@ -54,7 +54,7 @@ nav_order: 1
 <br>
 
 <div class="organizer">
-  <img class="photo" alt="Lukáš Burget" src="{{ site.baseurl }}/assets/img/Lukas_Burget.jpg">
+  <img class="photo" alt="Lukáš Burget" src="https://tdsvc.github.io/assets/img/Lukas_Burget.jpg">
   <div class="info">
     <h4>Lukáš Burget
 	  <a href="mailto:burget@fit.vutbr.cz" title="Email"><i class="fas fa-envelope" style="margin-left: 5px;"></i></a>  
