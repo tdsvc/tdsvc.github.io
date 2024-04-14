@@ -23,19 +23,20 @@ Participants are tasked with training a speaker encoder model using a significan
 **Task 2:** TdSV Using User-defined Passphrases
 Participants are required to train a speaker encoder model using a large text-independent training dataset in addition to the training data sourced from a predefined phrase pool consisting of 6 phrases. Speaker models are created using three repetitions of a user-defined passphrase (not included in the phrase pool), along with some free-text utterances. Speakers are verified using an utterance containing the user-defined passphrase.
 
-##### Challenge Dataset
+---
+#### Challenge Dataset
 
 The evaluation dataset of the challenge is drawn from the new versions of the multi-purpose DeepMine dataset[1]. The dataset has three parts and among them, Parts 1 and 3 are used in this challenge.
 
 [1] H. Zeinali, L. Burget, J. Cernocky, "A multi-purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database", in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019.
 
-
-##### Challenge Evaluation Plane
+---
+#### Challenge Evaluation Plane
 
 The full challenge evaluation plane version 1.0 can be found in [this link](https://tdsvc.github.io/assets/pdf/TdSV_Challenge_2024_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [tdsvc.2024\[at\]gmail.com](mailto:tdsvc.2024\[at\]gmail.com).
 
-
-##### Planned Evaluation Schedule
+---
+#### Planned Evaluation Schedule
 
 <table border="0">
  <tr>
