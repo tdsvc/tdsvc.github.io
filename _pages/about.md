@@ -118,13 +118,13 @@ The full challenge evaluation plane version 1.0 can be found at [this link](http
 
 ### Sponsors
 
-<table border="0">
+<table border="0" width="95%">
  <tr>
     <td>
 	<a href="https://aut.ac.ir/en/">Amirkabir University of Technology</a> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td>
-	<a href="https://aut.ac.ir/en/"><img align="right" width="160" src="https://tdsvc.github.io/assets/img/aut_logo.png"></a>
+	<a href="https://aut.ac.ir/en/"><img align="right" width="200" src="https://tdsvc.github.io/assets/img/aut_logo.png"></a>
     </td>
  </tr>
  <tr>
