@@ -23,7 +23,7 @@ Participants are tasked with training a speaker encoder model using a significan
 
 **Task 2: TdSV Using User-defined Passphrases**
 
-Participants are required to train a speaker encoder model using a large text-independent training dataset in addition to the training data sourced from a predefined phrase pool consisting of 6 phrases. Speaker models are created using three repetitions of a user-defined passphrase (not included in the phrase pool), along with some free-text utterances. Speakers are verified using an utterance containing the user-defined passphrase.
+Participants are required to train a speaker encoder model using a large text-independent training dataset. Additionally, there are utterances from a predefined pool of 6 phrases for each in-domain training speaker. Speaker models are created using three repetitions of a user-defined passphrase (not included in the phrase pool), along with some free-text utterances. Speakers are verified using an utterance containing the user-defined passphrase.
 
 ---
 
@@ -118,13 +118,13 @@ The full challenge evaluation plane version 1.0 can be found at [this link](http
 
 ### Sponsors
 
-<table border="0" width="95%">
+<table border="0">
  <tr>
     <td>
 	<a href="https://aut.ac.ir/en/">Amirkabir University of Technology</a> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td>
-	<a href="https://aut.ac.ir/en/"><img align="right" width="200" src="https://tdsvc.github.io/assets/img/aut_logo.png"></a>
+	<a href="https://aut.ac.ir/en/"><img align="right" width="auto" height="80" src="https://tdsvc.github.io/assets/img/aut_logo.png"></a>
     </td>
  </tr>
  <tr>
@@ -132,7 +132,7 @@ The full challenge evaluation plane version 1.0 can be found at [this link](http
 	<a href="https://deepmine.ir/">Sharif DeepMine Ltd.</a>
     </td>
     <td>
-	<a href="https://deepmine.ir/"><img align="right" width="120" src="https://tdsvc.github.io/assets/img/deepmine.jpg"></a>
+	<a href="https://deepmine.ir/"><img align="right" width="auto" height="80" src="https://tdsvc.github.io/assets/img/deepmine.jpg"></a>
     </td>
  </tr>
 </table>
