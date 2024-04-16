@@ -124,7 +124,7 @@ The full challenge evaluation plane version 1.0 can be found at [this link](http
 	<a href="https://aut.ac.ir/en/">Amirkabir University of Technology</a> &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td>
-	<a href="https://aut.ac.ir/en/"><img align="right" width="160" src="https//tdsvc.github.io/assets/img/aut_logo.png"></a>
+	<a href="https://aut.ac.ir/en/"><img align="right" width="160" src="https://tdsvc.github.io/assets/img/aut_logo.png"></a>
     </td>
  </tr>
  <tr>
@@ -132,7 +132,7 @@ The full challenge evaluation plane version 1.0 can be found at [this link](http
 	<a href="https://deepmine.ir/">Sharif DeepMine Ltd.</a>
     </td>
     <td>
-	<a href="https://deepmine.ir/"><img align="right" width="120" src="https//tdsvc.github.io/assets/img/deepmine.jpg"></a>
+	<a href="https://deepmine.ir/"><img align="right" width="120" src="https://tdsvc.github.io/assets/img/deepmine.jpg"></a>
     </td>
  </tr>
 </table>
