@@ -8,8 +8,7 @@ nav: true
 nav_order: 2
 ---
 
-### Challenge Registration
----
+
 The challenge leaderboards are hosted on [CodaLab](https://codalab.org/). Each team needs at least one CodaLab account to submit results.
 
 Participation in this challenge is open to all who are interested. There is no cost to participate except for writing a system description of at least two pages, which must be submitted on time. We highly recommend participants submit full system description papers to the challenge's special session at SLT 2024.

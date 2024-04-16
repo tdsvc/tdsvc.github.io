@@ -47,7 +47,7 @@ The evaluation dataset of the challenge is drawn from the new versions of the mu
 
 #### Challenge Evaluation Plane
 
-The full challenge evaluation plane version 1.0 can be found in [this link](https://tdsvc.github.io/assets/pdf/TdSV_Challenge_2024_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [tdsvc.2024\[at\]gmail.com](mailto:tdsvc.2024\[at\]gmail.com).
+The full challenge evaluation plane version 1.0 can be found at [this link](https://tdsvc.github.io/assets/pdf/TdSV_Challenge_2024_Evaluation_Plan.pdf) and the high-quality challenge poster is available through [this link](https://tdsvc.github.io/assets/img/tdsvc_poster.jpg). If you have any more questions regarding the challenge you can contact organizers via [tdsvc.2024\[at\]gmail.com](mailto:tdsvc.2024\[at\]gmail.com).
 
 ---
 
@@ -113,3 +113,26 @@ The full challenge evaluation plane version 1.0 can be found in [this link](http
  <tr><td> &nbsp; </td></tr>
 </table>
 
+
+---
+
+### Sponsors
+
+<table border="0">
+ <tr>
+    <td>
+	<a href="https://aut.ac.ir/en/">Amirkabir University of Technology</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td>
+	<a href="https://aut.ac.ir/en/"><img align="right" width="160" src="https//tdsvc.github.io/assets/img/aut_logo.png"></a>
+    </td>
+ </tr>
+ <tr>
+    <td>
+	<a href="https://deepmine.ir/">Sharif DeepMine Ltd.</a>
+    </td>
+    <td>
+	<a href="https://deepmine.ir/"><img align="right" width="120" src="https//tdsvc.github.io/assets/img/deepmine.jpg"></a>
+    </td>
+ </tr>
+</table>
